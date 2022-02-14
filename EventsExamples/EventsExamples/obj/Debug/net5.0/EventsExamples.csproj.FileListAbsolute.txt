@@ -1,0 +1,16 @@
+E:\Projects\EventsExamples\EventsExamples\EventsExamples\bin\Debug\net5.0\EventsExamples.exe
+E:\Projects\EventsExamples\EventsExamples\EventsExamples\bin\Debug\net5.0\EventsExamples.deps.json
+E:\Projects\EventsExamples\EventsExamples\EventsExamples\bin\Debug\net5.0\EventsExamples.runtimeconfig.json
+E:\Projects\EventsExamples\EventsExamples\EventsExamples\bin\Debug\net5.0\EventsExamples.runtimeconfig.dev.json
+E:\Projects\EventsExamples\EventsExamples\EventsExamples\bin\Debug\net5.0\EventsExamples.dll
+E:\Projects\EventsExamples\EventsExamples\EventsExamples\bin\Debug\net5.0\ref\EventsExamples.dll
+E:\Projects\EventsExamples\EventsExamples\EventsExamples\bin\Debug\net5.0\EventsExamples.pdb
+E:\Projects\EventsExamples\EventsExamples\EventsExamples\obj\Debug\net5.0\EventsExamples.csproj.AssemblyReference.cache
+E:\Projects\EventsExamples\EventsExamples\EventsExamples\obj\Debug\net5.0\EventsExamples.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\EventsExamples\EventsExamples\EventsExamples\obj\Debug\net5.0\EventsExamples.AssemblyInfoInputs.cache
+E:\Projects\EventsExamples\EventsExamples\EventsExamples\obj\Debug\net5.0\EventsExamples.AssemblyInfo.cs
+E:\Projects\EventsExamples\EventsExamples\EventsExamples\obj\Debug\net5.0\EventsExamples.csproj.CoreCompileInputs.cache
+E:\Projects\EventsExamples\EventsExamples\EventsExamples\obj\Debug\net5.0\EventsExamples.dll
+E:\Projects\EventsExamples\EventsExamples\EventsExamples\obj\Debug\net5.0\ref\EventsExamples.dll
+E:\Projects\EventsExamples\EventsExamples\EventsExamples\obj\Debug\net5.0\EventsExamples.pdb
+E:\Projects\EventsExamples\EventsExamples\EventsExamples\obj\Debug\net5.0\EventsExamples.genruntimeconfig.cache

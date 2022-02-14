@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>Example2_Args_</RootNamespace>
+    <StartupObject>Example2_Args_.Program</StartupObject>
+  </PropertyGroup>
+
+</Project>

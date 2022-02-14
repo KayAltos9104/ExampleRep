@@ -1,0 +1,16 @@
+E:\Projects\EventsExamples\EventsExamples\Example2(Args)\bin\Debug\net5.0\Example2(Args).exe
+E:\Projects\EventsExamples\EventsExamples\Example2(Args)\bin\Debug\net5.0\Example2(Args).deps.json
+E:\Projects\EventsExamples\EventsExamples\Example2(Args)\bin\Debug\net5.0\Example2(Args).runtimeconfig.json
+E:\Projects\EventsExamples\EventsExamples\Example2(Args)\bin\Debug\net5.0\Example2(Args).runtimeconfig.dev.json
+E:\Projects\EventsExamples\EventsExamples\Example2(Args)\bin\Debug\net5.0\Example2(Args).dll
+E:\Projects\EventsExamples\EventsExamples\Example2(Args)\bin\Debug\net5.0\ref\Example2(Args).dll
+E:\Projects\EventsExamples\EventsExamples\Example2(Args)\bin\Debug\net5.0\Example2(Args).pdb
+E:\Projects\EventsExamples\EventsExamples\Example2(Args)\obj\Debug\net5.0\Example2(Args).csproj.AssemblyReference.cache
+E:\Projects\EventsExamples\EventsExamples\Example2(Args)\obj\Debug\net5.0\Example2(Args).GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\EventsExamples\EventsExamples\Example2(Args)\obj\Debug\net5.0\Example2(Args).AssemblyInfoInputs.cache
+E:\Projects\EventsExamples\EventsExamples\Example2(Args)\obj\Debug\net5.0\Example2(Args).AssemblyInfo.cs
+E:\Projects\EventsExamples\EventsExamples\Example2(Args)\obj\Debug\net5.0\Example2(Args).csproj.CoreCompileInputs.cache
+E:\Projects\EventsExamples\EventsExamples\Example2(Args)\obj\Debug\net5.0\Example2(Args).dll
+E:\Projects\EventsExamples\EventsExamples\Example2(Args)\obj\Debug\net5.0\ref\Example2(Args).dll
+E:\Projects\EventsExamples\EventsExamples\Example2(Args)\obj\Debug\net5.0\Example2(Args).pdb
+E:\Projects\EventsExamples\EventsExamples\Example2(Args)\obj\Debug\net5.0\Example2(Args).genruntimeconfig.cache
